@@ -1,0 +1,47 @@
+[
+	{
+		"car" : 
+		{
+			"carNumber" : "C1003"
+		},
+		"id" : 1,
+		"rentEndDate" : "20-01-2020",
+		"rentStartDate" : "27-01-2020",
+		"renter" : 
+		{
+			"address" : "London",
+			"name" : "Will",
+			"phone" : "87656578098"
+		}
+	},
+	{
+		"car" : 
+		{
+			"carNumber" : "C1002"
+		},
+		"id" : 2,
+		"rentEndDate" : "16-08-2021",
+		"rentStartDate" : "12-08-2021",
+		"renter" : 
+		{
+			"address" : "Shangai",
+			"name" : "Bill",
+			"phone" : "9087798876"
+		}
+	},
+	{
+		"car" : 
+		{
+			"carNumber" : "C1003"
+		},
+		"id" : "2",
+		"rentEndDate" : "05-04-2022",
+		"rentStartDate" : "03-04-2022",
+		"renter" : 
+		{
+			"address" : "LA",
+			"name" : "John Doe",
+			"phone" : "41039049"
+		}
+	}
+]

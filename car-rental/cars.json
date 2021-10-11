@@ -1,0 +1,30 @@
+[
+	{
+		"carNumber" : "C1000",
+		"id" : "0",
+		"model" : "Royce",
+		"name" : "Rolls",
+		"rentPrice" : "100"
+	},
+	{
+		"carNumber" : "C1001",
+		"id" : "1",
+		"model" : "SS",
+		"name" : "Tesla",
+		"rentPrice" : "40"
+	},
+	{
+		"carNumber" : "C1002",
+		"id" : "2",
+		"model" : "T3",
+		"name" : "Toyota",
+		"rentPrice" : "20"
+	},
+	{
+		"carNumber" : "C1003",
+		"id" : "3",
+		"model" : "HR-V",
+		"name" : "Honda",
+		"rentPrice" : "45"
+	}
+]
